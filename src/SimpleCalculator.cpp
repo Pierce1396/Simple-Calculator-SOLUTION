@@ -10,6 +10,7 @@ double calculateCircleArea() {
     //      create a constant double variable named pi and set it equal to 3.1415926535
     double r;
     const double pi = 3.1415926535;
+    //test
 
     //TODO: prompt the user to enter the radius, r
     cout << "Enter the radius: \n";
